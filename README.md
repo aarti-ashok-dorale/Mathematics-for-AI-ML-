@@ -1,8 +1,8 @@
 # 📐 Mathematics for AI/ML
 
-> A 30-day beginner-friendly roadmap to build a strong mathematical foundation for Artificial Intelligence and Machine Learning.
+> A beginner-friendly roadmap to build a strong mathematical foundation for Artificial Intelligence and Machine Learning.
 
-This repository contains my **30-Day AI/ML Mathematics learning journey**, covering the essential mathematical concepts required to understand Machine Learning and AI algorithms.
+This repository contains my **AI/ML Mathematics learning journey**, covering the essential mathematical concepts required to understand Machine Learning and AI algorithms.
 
 Each topic includes:
 

@@ -33,7 +33,4 @@ By completing this roadmap, I aim to build a strong foundation in:
 - Optimization
 - Mathematics Behind ML Algorithms
 
-
-| **Day 30** | 🤖 ML Mathematics | Decision Tree, K-Means, PCA, Neural Networks + Final Revision |
-
 Building my Mathematics foundation for AI/ML.
